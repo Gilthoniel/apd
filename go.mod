@@ -1,4 +1,4 @@
-module github.com/cockroachdb/apd/v3
+module github.com/Gilthoniel/apd
 
 go 1.17
 
